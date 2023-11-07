@@ -4,6 +4,7 @@ This database collected 13 screen content sequences from the internet, encoded t
 # Experimental configuration
 1. VTM10.0
 2. Enable IBC, PLT, BDPCM, HashME
-3. Disenable Dualtree
+3. Disenable DualITree
 
 # Examples: 64x64 luma CU and label
+
