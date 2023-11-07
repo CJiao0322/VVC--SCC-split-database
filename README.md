@@ -7,4 +7,5 @@ This database collected 13 screen content sequences from the internet, encoded t
 3. Disenable DualITree
 
 # Examples: 64x64 luma CU and label
+！[Image text]
 CU_vis/lg1.jpg
