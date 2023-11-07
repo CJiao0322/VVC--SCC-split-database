@@ -8,3 +8,12 @@ This database collected 13 screen content sequences from the internet, encoded t
 
 # Examples: 64x64 luma CU and label
 ![lg1](https://github.com/CJiao0322/VVC--SCC-split-database/assets/70012114/8c5155fb-84d2-4829-a604-99e427ff372d)
+
+# Copyright
+
+
+# Download
+
+# Citation
+
+# Version
