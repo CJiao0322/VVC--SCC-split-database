@@ -7,5 +7,4 @@ This database collected 13 screen content sequences from the internet, encoded t
 3. Disenable DualITree
 
 # Examples: 64x64 luma CU and label
-！[Image text]
-CU_vis/lg1.jpg
+![lg1](https://github.com/CJiao0322/VVC--SCC-split-database/assets/70012114/8c5155fb-84d2-4829-a604-99e427ff372d)
